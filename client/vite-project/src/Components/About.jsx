@@ -6,7 +6,7 @@ const About = () => {
         <h1 className="  flex justify-center text-5xl mb-[5rem] font-bold text-blue-500">About Us</h1>
         <div className="sm:flex items-center py-2">
 
-            <img className="mx-auto w-[35rem]" src="public/hero2.png"/>
+            <img className="mx-auto w-[35rem]" src="/hero2.png"/>
            
           <div className="sm:flex flex-col items-center">
             <h4 className="mx-12  mb-[5rem] text-xl text-gray-400 text-justify">
