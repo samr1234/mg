@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type="text"],input[type="email"],textarea{
+
+    @apply w-[15rem] sm:w-[20rem] md:w-[25rem] border my-4 py-3 px-3 rounded-xl bg-[#f5f5f5];
+}
+
+
