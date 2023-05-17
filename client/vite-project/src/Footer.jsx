@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="">
         
-    <div className="flex justify-around pt-16 bg-[#6674CC] text-white  py-6 h-64">
+    <div className="flex justify-around   px-6  pb-10 bg-[#6674CC] text-white  py-8 h-64">
         <div>
             <h1 className="text-2xl mb-2">MG</h1>
             <p>new delhi <br/> India </p>
@@ -27,8 +27,6 @@ const Footer = () => {
                 <li className="hover:text-cyan-300 ">web design</li>
                 <li className="hover:text-cyan-300 ">web development</li>
                 <li className="hover:text-cyan-300 ">marketing</li>
-                <li className="hover:text-cyan-300 ">seo</li>
-                <li className="hover:text-cyan-300 ">mobile apps</li>
             </ul>
         </div>
         <div className="sm:block hidden">
