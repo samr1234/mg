@@ -9,7 +9,7 @@
     {
         img:"https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Cybersecurity_Projects.jpg",
         heading:"Cyber security",
-        description:"At MG, we protect sensitive data  for businesses of all sizes. we offer comprehensive cyber security services to ensure that our clients' systems and networks are secure from potential breaches. With a team of skilled cyber security experts, we provide tailored solutions to identify vulnerabilities."
+        description:"At MG, we protect sensitive data  for businesses of all sizes. we offer comprehensive cyber security services to ensure that our clients' systems and networks are secure from potential breaches. With a team of skilled cyber security experts, we provide tailored solutions to identify vulnerabilities. With a team of skilled network engineers"
     },
         {
           img:"https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
