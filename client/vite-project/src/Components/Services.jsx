@@ -6,8 +6,8 @@ import {motion} from 'framer-motion'
 const Services = () => {
  
   return (
-    <div id="services" className="pt-[6rem] pb-4 sm:h-screen z-0 ">
-      <h1 className="flex justify-center text-5xl pb-[6rem] font-bold text-blue-500">
+    <div id="services" className="pt-[6rem] pb-4 sm:h-screen">
+      <h1 className="sm:z-999 flex justify-center text-5xl pb-[6rem] font-bold text-blue-500">
         Services
       </h1>
       
@@ -37,7 +37,7 @@ const Services = () => {
           <button
 
       
-            className="block mx-auto border py-2 px-3 rounded-2xl hover:ease-in hover:duration-300 hover:text-white hover:bg-cyan-400"
+            className="block mx-auto border py-2 px-3 rounded-2xl  hover:text-white hover:bg-cyan-400"
           >
             Read more
             

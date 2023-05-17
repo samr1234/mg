@@ -20,7 +20,7 @@ e.preventDefault();
 }
 
   return (
-    <div id="contact" className="sm:h-screen bg-gradient-to-r from-[#f0f2f0] via-white to-[#F0EEFF]">
+    <div id="contact" className="sm:min-h-screen pt-[6rem] bg-gradient-to-r from-[#f0f2f0] via-white to-[#F0EEFF]">
       <h1 className="flex justify-around text-5xl pt-12 pb-10 font-bold text-blue-500">Contact Us</h1>
       <div className="sm:flex justify-around items-center">
         <div className="">

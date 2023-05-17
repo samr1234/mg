@@ -4,8 +4,8 @@ import { useState } from "react";
 const Reviews = () => {
   const [isActive, setIsActive] = useState(false);
   return (
-    <div className="bg-gradient-to-r from-[#f0f2f0] via-white">
-    <h1 className="flex justify-center text-5xl pb-[5rem] font-bold text-blue-500 pt-10 ">Reviews </h1>
+    <div className="sm:z-10  sm:h-screen pt-[6rem] mb-12 bg-gradient-to-r from-[#f0f2f0] via-white bg-fixed">
+    <h1 className="flex justify-center text-5xl pb-[6rem] font-bold text-blue-500  ">Reviews </h1>
       
 <div class="grid pb-8 mt-10 rounded-lg shadow-sm dark:border-gray-700 md:pb-12 md:grid-cols-2">
     <figure className="mx-16 my-8 flex flex-col items-center justify-center p-8 text-center bg-white border-b border-gray-200 rounded-t-lg md:rounded-t-none md:rounded-tl-lg md:border-r dark:bg-gray-800 dark:border-gray-700">
